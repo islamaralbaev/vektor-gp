@@ -1,0 +1,10 @@
+{
+  "name": "vektor-gp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vektor GP — brauzer poyga o'yini (tayyor build)",
+  "scripts": {
+    "start": "node server.js --open",
+    "dev": "node server.js"
+  }
+}
